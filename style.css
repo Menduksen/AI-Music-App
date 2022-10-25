@@ -1,0 +1,35 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+#heading{
+    margin-left: 80px;
+    background-color: transparent;
+    border-color: transparent;
+    color: whitesmoke;
+    font-size: 40px;
+    font-family:monospace;
+    font-weight: bold;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+
+p{
+    font-size:large;
+    color: red;
+}
+
+#song_name{
+    margin-left: 20px;
+    background-color: turquoise;
+}
+
+circle{
+    color: turquoise;
+    border-color: white;
+}
